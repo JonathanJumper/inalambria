@@ -1,16 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About
 
-In the project directory, you can run:
 
-### `npm start`
+This project was made for a challenge from Inalambria.  
+This repo contains application to consume a [Typicode](https://jsonplaceholder.typicode.com/) service as required in instructions
+
+Created with React JS.
+
+To use it, clone this repo and run
+
+### `$ npm install`
+### `$ npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
+
+## Other available Scripts
 
 ### `npm test`
 
